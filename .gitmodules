@@ -1,3 +1,7 @@
 [submodule "bootcamp/prework-study-guide"] 
   path = bootcamp/prework-study-guide 
   url = git://url-of-source https://github.com/unnamedmistress/bootcamp.git
+[submodule "bootcamp"]
+	path = bootcamp
+	url = https://github.com/unnamedmistress/bootcamp.git
+	branch = main
