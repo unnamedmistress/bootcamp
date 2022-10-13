@@ -1,7 +1,7 @@
-[submodule "bootcamp/prework-study-guide"] 
+[submodule "prework-study-guide"] 
   path = prework-study-guide 
-  url = git://url-of-source https://github.com/unnamedmistress/prewwork-study-guide.git
-[submodule "prewwork-study-guide"]
+  url = git://url-of-source https://github.com/unnamedmistress/prework-study-guide.git
+[submodule "prework-study-guide"]
 	path = prework-study-guide
-	url = https://github.com/unnamedmistress/prewwork-study-guide.git
+	url = https://github.com/unnamedmistress/prework-study-guide.git
 	branch = main
